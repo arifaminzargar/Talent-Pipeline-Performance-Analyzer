@@ -1,4 +1,4 @@
-**📊 Talent Pipeline Performance Analyzer – From Data Cleaning to Business Insights
+** 📊 Talent Pipeline Performance Analyzer – From Data Cleaning to Business Insights
 
 I recently built a Power BI dashboard to analyze recruitment performance, starting from raw data cleaning to deriving actionable insights.
 
